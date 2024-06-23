@@ -1,0 +1,27 @@
+body{
+    display: grid;
+    place-content: center;
+    padding-top: 30px;
+    background-image: url(hack.gif);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+table{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(160, 160, 160);
+}
+button{
+    width: 50px;
+    height: 30px;
+    background-color: purple;
+    color: white;
+}
+input{
+    height: 30px;
+}
+h1{
+    color: whitesmoke;
+}
